@@ -76,6 +76,7 @@ streamlit run web.py
 - Add todos via input box
 - Complete tasks via checkboxes
 
+🔗 Try the live demo: https://m-f-tushar-my-todo-app-web-dsvkax.streamlit.app/
 ---
 
 ## 🧠 Core Logic (functions.py)
