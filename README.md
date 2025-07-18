@@ -23,7 +23,7 @@ This app helps users manage personal tasks in a clean and user-friendly way, wit
 ## 📁 Project Structure
 
 ```
-📁 todo-app/
+📁 My-Todo-App/
 ├── cli.py           # CLI-based todo app
 ├── gui.py           # GUI app using PySimpleGUI
 ├── web.py           # Web app using Streamlit
