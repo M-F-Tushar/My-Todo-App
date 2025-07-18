@@ -112,8 +112,6 @@ This project is licensed under the MIT License.
 
 Feel free to fork this repo, suggest features, or submit pull requests.
 
-Made with 💻 + 🧠 by [Your Name]
-
 ---
 
 **Ready to organize your life? Pick your preferred interface and start managing your tasks today!**
